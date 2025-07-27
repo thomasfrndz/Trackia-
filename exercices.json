@@ -1,0 +1,26 @@
+[
+    {
+        "nom": "Squat",
+        "categorie": "Jambes",
+        "materiel": "Barre",
+        "description": "Le squat est un exercice polyarticulaire sollicitant les quadriceps, les ischios-jambiers et les fessiers.",
+        "conseils": [
+            "Gardez le dos droit",
+            "Regardez devant vous",
+            "Descendez jusqu'à ce que les cuisses soient parallèles au sol"
+        ],
+        "image": "assets/illustrations/squat.png"
+    },
+    {
+        "nom": "Développé couché",
+        "categorie": "Pectoraux",
+        "materiel": "Barre",
+        "description": "Allongez-vous sur un banc, poussez la barre au-dessus de la poitrine.",
+        "conseils": [
+            "Contrôlez la descente",
+            "Poussez fort sans verrouiller les coudes",
+            "Respirez profondément"
+        ],
+        "image": "assets/illustrations/bench_press.png"
+    }
+]
